@@ -111,6 +111,7 @@ function showimg(id){
     }
 
 }
+var u=0;
 var hoverCount = 1;
 function hoverImg(id){
     
